@@ -1,3 +1,3 @@
-# tha main  
+#
 
-Hello Odin hello!
+Hello odin!
